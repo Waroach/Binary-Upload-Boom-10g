@@ -1,3 +1,34 @@
+// Comment on line you are working on or have completed
+//<-Above completed or Working on by Brent
+
+//                                  GOALS
+// choose  color pallet
+//<- 
+// choose change for Binary Upload Boom
+//<- 
+// choose change for The #100Devs Social Network
+//<-
+// change button styles like shadows 
+//<- Gaby
+// make buttons images different
+//<- 
+
+
+
+//                               STRETCH GOALS
+// 1) pull daily images from some repo or something along these lines. like maybe background.
+//<- 
+// or maybe instead of pulling from pc. 
+//<- 
+// it gives choice from either REPO or from picture
+//<- 
+// Add a dislike counter
+//<- 
+// add comments from users
+//<- 
+
+
+
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
