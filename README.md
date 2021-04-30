@@ -18,3 +18,17 @@
 # Run
 
 `npm start`
+
+
+
+"$PORT"
+
+"$DB_STRING"
+
+"$CLOUD_NAME"
+
+"$API_KEY"
+
+"$API_SECRET"
+
+
