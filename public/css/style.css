@@ -1,7 +1,14 @@
 body{
-  background-color: black;
+  // background-color: #F7b676;
+  background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(50,236,156,1) 0%, rgba(252,207,22,1) 100%);
 }
 
+.col-3 btn btn-primary{
+  background: rgb(248, 1, 1);
+}
 
-
+// Bag of money cursor over all a
+a{
+  cursor: url(https://cur.cursors-4u.net/others/oth-2/oth192.cur), auto !important;
+}
 

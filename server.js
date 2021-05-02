@@ -3,7 +3,7 @@
 
 //                                  GOALS
 // choose  color pallet
-//<- 
+//<- Changed background to green/gold gradient to keep the money theme of 10gs. Feel free to change if you find a better fit for the website. - Nick
 // choose change for Binary Upload Boom
 //<- 
 // choose change for The #100Devs Social Network
