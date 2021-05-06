@@ -7,8 +7,12 @@ body{
   background: rgb(248, 1, 1);
 }
 
-// Bag of money cursor over all a
-a{
-  cursor: url(https://cur.cursors-4u.net/others/oth-2/oth192.cur), auto !important;
-}
 
+button:hover{
+  box-shadow: 0 1rem 2rem 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  color: black;
+  //padding: 1rem 1.5rem;
+  text-alight: center;
+  text-decoration: none;
+  //display: inline-block;
+}
