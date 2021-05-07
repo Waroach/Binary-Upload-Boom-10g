@@ -11,9 +11,25 @@ body{
 .dollar{
   width: 120px;
   height: 50px;
-  opacity: .2;
   content:url(https://i.pinimg.com/originals/e5/89/e3/e589e33a7b8f888eab51cc08bfc03165.png);
 }
+.signInDiv {
+  position: relative;
+  text-align: center;
+  color: rgb(198,136,75);
+  font-weight: bolder;
+  text-shadow: 2px 2px #000000;
+  -webkit-text-stroke: 1px #000000;
+}
+
+.textTestSI {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 
 button:hover{
   box-shadow: 0 1rem 2rem 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
