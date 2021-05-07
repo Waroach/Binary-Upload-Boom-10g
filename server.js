@@ -5,9 +5,9 @@
 // choose  color pallet
 //<- Changed background to green/gold gradient to keep the money theme of 10gs. Feel free to change if you find a better fit for the website. - Nick
 // choose change for Binary Upload Boom
-//<- 
+//<- 10 G Gang by Brent
 // choose change for The #100Devs Social Network
-//<-
+//<-The #100Devs money pyramid by Brent
 // change button styles like shadows 
 //<- Gaby
 // make buttons images different
@@ -16,12 +16,10 @@
 
 
 //                               STRETCH GOALS
-// 1) pull daily images from some repo or something along these lines. like maybe background.
-//<- 
+// 1) pull daily images from some repo or something along these lines.
 // or maybe instead of pulling from pc. 
-//<- 
 // it gives choice from either REPO or from picture
-//<- 
+//< - 
 // Add a dislike counter
 //<- 
 // add comments from users
