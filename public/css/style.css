@@ -1,12 +1,19 @@
 body{
   // background-color: #F7b676;
   background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(50,236,156,1) 0%, rgba(252,207,22,1) 100%);
+
 }
 
 .col-3 btn btn-primary{
   background: rgb(248, 1, 1);
 }
 
+.dollar{
+  width: 120px;
+  height: 50px;
+  opacity: .2;
+  content:url(https://i.pinimg.com/originals/e5/89/e3/e589e33a7b8f888eab51cc08bfc03165.png);
+}
 
 button:hover{
   box-shadow: 0 1rem 2rem 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
